@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed App [here](https://chat-application-7234b.web.app).
+
 ## Available Scripts
 
 In the project directory, you can run:
