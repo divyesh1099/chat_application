@@ -1,0 +1,25 @@
+.app {
+  text-align: center;
+  background-image: url("C:\Users\acer\Desktop\Divyesh\Projects\chat_application\src\iPhone X, XS, 11 Pro – 12.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position-x: center;
+}
+.chatMessage{
+  color: red;
+}
+
+.app > form {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  width: 100%;
+}
+
+.app > form > input {
+  padding: 20px;
+  flex: 1;
+}
+.app > form > button {
+  padding: 20px;
+}
